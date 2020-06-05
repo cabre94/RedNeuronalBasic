@@ -1,6 +1,11 @@
 """
-7/5/2020
-Vamos a trucar el sistema de red neuroal inceptiion V3, diseñada por google
+4/6/20
+File: Ataque_adversario.py
+Author: Facundo Martin Cabrera
+Email: cabre94@hotmail.com f.cabre94@gmail.com
+GitHub: https://github.com/cabre94
+GitLab: https://gitlab.com/cabre94
+Description: Vamos a trucar el sistema de red neuroal inceptiion V3, diseñada por google
 para clasificar imagenes en 1000 categorias diferentes.
 Vamos a descargar el modelo ya entrenado, chequearlo, y despues generar una imagen
 adversaria para romperla

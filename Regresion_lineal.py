@@ -1,3 +1,13 @@
+"""
+4/6/20
+File: Regresion_lineal.py
+Author: Facundo Martin Cabrera
+Email: cabre94@hotmail.com f.cabre94@gmail.com
+GitHub: https://github.com/cabre94
+GitLab: https://gitlab.com/cabre94
+Description:
+"""
+
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.datasets import load_boston
